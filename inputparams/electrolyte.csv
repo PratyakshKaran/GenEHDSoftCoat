@@ -1,0 +1,2 @@
+nspecies;	n0;			relperm;	(diffcoeff(ispecies),ispecies=1,nspecies);	(valence(ispecies),ispecies=1,nspecies);
+2;			6.023e23;	80.0;		1.0e-9;		1.0e-9;							-1;			1;

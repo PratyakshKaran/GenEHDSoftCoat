@@ -1,0 +1,18 @@
+ady;		adt;			adtau
+0;			0;				0
+mady;		nady;			madt;			nadt;			madtau;			nadtau
+0.25;		0.75;			0.75;			0.25;			0.25;			0.75
+scheme;		symbc;			guess;			revtime;		considerlim
+0;			1;				1;				0;				0
+minout;		termout
+5;			1
+tol;		tolbreak;		thressmallamp;	thresoneway1;	thresoneway2;	relax;			thresadhesion;		threscavity;	threslin;
+thresstok;	nsubsvel;		thresthin;		thressemi;		threspcompr;	thresincompr;	nudummy;			thresdomhd;	thresreduce
+0.5e-5;		0.5e-3;			0.25;			0.25;			0.25;			0.50;			1.00e10;			1.00e10;
+1.00e5;
+1.00e3;		25;				0.25;			1.0e2;			1.0e-3;			0.50;			0.495;				0.9;
+1.00e10
+nt;			nr;				ny;				nz;				ntau
+101;		2501; 	  	 	101;			101;			101
+tstart;		tend;							rinf;			tauinf
+0.0;		6.28318530717959;		  		300.0;			100.0
